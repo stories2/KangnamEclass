@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<dataset id="DS_SOS">
+<record>
+<openYear>2018</openYear>
+<openSmst>1</openSmst>
+<sysType>ECLS</sysType>
+<clubId>S20181KB1420500</clubId>
+<clubNm>프로그래밍언어구조론(00)</clubNm>
+<sbmtYn>N</sbmtYn>
+<sbmtAvailYn>Y</sbmtAvailYn>
+<workSeq>9630</workSeq>
+<workTitle>구문 과제 (5점)</workTitle>
+<workAttcYn>N</workAttcYn>
+<lakeSbmtPmsnYn>N</lakeSbmtPmsnYn>
+<workStDt>20180322</workStDt>
+<workEdDt>20180404</workEdDt>
+<workCont><![CDATA[<p>● 우선순위가 반영된 문법 G<br />&nbsp;&nbsp; &lt;assign&gt; &rarr; &lt;id&gt; = &lt;expr&gt;<br />&nbsp;&nbsp; &lt;id&gt; &rarr; A | B | C<br />&nbsp;&nbsp; &lt;expr&gt; &rarr; &lt;expr&gt;+&lt;term&gt; | &lt;expr&gt;-&lt;term&gt; | &lt;term&gt;<br />&nbsp;&nbsp; &lt;term&gt; &rarr; &lt;term&gt;*&lt;factor&gt; | &lt;factor&gt;<br />&nbsp;&nbsp; &lt;factor&gt; &rarr; (&lt;expr&gt;) | &lt;number&gt;<br />&nbsp;&nbsp; &lt;number&gt; &rarr; &lt;number&gt;&lt;digit&gt; | &lt;digit&gt;<br />&nbsp;&nbsp; &lt;digit&gt; &rarr; 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9</p><p>■ G를 이용하여 다음 각각의 파스 트리를 작성하시오.<br />&nbsp;&nbsp; ① A = 2 * 3 + 4<br />&nbsp;&nbsp; ② B = (2 + 3) * 4<br />&nbsp;&nbsp; ③ C = 2 * (3 + 4 * 5)</p>]]></workCont>
+<reltUrl1></reltUrl1>
+<reltUrl2></reltUrl2>
+<reltUrl3></reltUrl3>
+<reltUrl4></reltUrl4>
+<reltUrl5></reltUrl5>
+<reltUrl1Comment></reltUrl1Comment>
+<reltUrl2Comment></reltUrl2Comment>
+<reltUrl3Comment></reltUrl3Comment>
+<reltUrl4Comment></reltUrl4Comment>
+<reltUrl5Comment></reltUrl5Comment>
+<sbmtYn>N</sbmtYn>
+<sbmtAvailYn>Y</sbmtAvailYn>
+</record>
+<record>
+<openYear>2018</openYear>
+<openSmst>1</openSmst>
+<sysType>ECLS</sysType>
+<clubId>S20181KB1420800</clubId>
+<clubNm>컴파일러구성론(00)</clubNm>
+<sbmtYn>N</sbmtYn>
+<sbmtAvailYn>Y</sbmtAvailYn>
+<workSeq>9627</workSeq>
+<workTitle>과제-1 (5점)</workTitle>
+<workAttcYn>N</workAttcYn>
+<lakeSbmtPmsnYn>N</lakeSbmtPmsnYn>
+<workStDt>20180322</workStDt>
+<workEdDt>20180404</workEdDt>
+<workCont><![CDATA[다음의 정규문법에 대하여<br />&nbsp;&nbsp; S&rarr;0S | A<br />&nbsp;&nbsp; A&rarr;1A | 1<br />①&nbsp;정규표현을 구하고,<br />②&nbsp;이를 인식하는 최소화된 DFA의 FSM을 나타내시오.]]></workCont>
+<reltUrl1></reltUrl1>
+<reltUrl2></reltUrl2>
+<reltUrl3></reltUrl3>
+<reltUrl4></reltUrl4>
+<reltUrl5></reltUrl5>
+<reltUrl1Comment></reltUrl1Comment>
+<reltUrl2Comment></reltUrl2Comment>
+<reltUrl3Comment></reltUrl3Comment>
+<reltUrl4Comment></reltUrl4Comment>
+<reltUrl5Comment></reltUrl5Comment>
+<sbmtYn>N</sbmtYn>
+<sbmtAvailYn>Y</sbmtAvailYn>
+</record>
+</dataset>
+<dataset id="DS_SOS_PARAM">
+<record>
+<taskId>F_STU_MAIN</taskId>
+<flag>homeWork</flag>
+<S_USER_ID>201501180</S_USER_ID>
+<S_IP_ADDR>222.107.27.13</S_IP_ADDR>
+</record>
+</dataset>
+<dataset id="DS_PAGE_LINK">
+<colinfo id="pageNavi" size="255" type="STRING" />
+<record>
+<totalPageno>1</totalPageno>
+<totalColumnno>2</totalColumnno>
+<pageNavi><![CDATA[]]></pageNavi>
+</record>
+</dataset>
+</root>
+

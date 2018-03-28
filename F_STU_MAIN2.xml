@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<dataset id="DS_SOS">
+</dataset>
+<dataset id="DS_SOS_PARAM">
+<record>
+<taskId>F_STU_MAIN</taskId>
+<sysType>ECLS</sysType>
+<clubId>ECLS_MAIN</clubId>
+<menuCode>1005</menuCode>
+<menuNo>1</menuNo>
+<flag>class</flag>
+<S_USER_ID>201501180</S_USER_ID>
+<S_IP_ADDR>222.107.27.13</S_IP_ADDR>
+</record>
+</dataset>
+<dataset id="DS_PAGE_LINK">
+<colinfo id="pageNavi" size="255" type="STRING" />
+<record>
+<totalPageno>1</totalPageno>
+<totalColumnno>0</totalColumnno>
+<pageNavi><![CDATA[]]></pageNavi>
+</record>
+</dataset>
+</root>
+
